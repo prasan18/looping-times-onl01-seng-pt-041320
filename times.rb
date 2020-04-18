@@ -1,4 +1,4 @@
-def using_times.7
+def using_times
 	
 end
 
